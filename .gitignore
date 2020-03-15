@@ -1,0 +1,5 @@
+.clang-format
+.gdbinit
+.minix-src/
+.svn/
+.vscode/
